@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Totam temporibus ill",
+      "price": 51,
+      "id": 2
+    },
+    {
+      "name": "Fugiat deserunt magn",
+      "price": 80,
+      "id": 3
+    }
+  ]
+}
